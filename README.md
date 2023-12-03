@@ -1,18 +1,3 @@
-
-
-# Tech Stack
-
-<div align="center">  
-<a href="" title=""><img style="margin: 10px" src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python"  width="55px" height="55px"></a>
-<a href="" title=""><img style="margin: 10px" src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="55px" height="55px"></a>
-<a href="" title=""><img style="margin: 10px" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" width="55px" height="55px"></a>
-<a href="" title=""><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="55px" height="55px"></a>
-<a href="" title=""><img style="margin: 10px" src="https://github.com/get-icon/geticon/raw/master/icons/nginx.svg" alt="Nginx" width="55px" height="55px"></a>
-<a href="" title=""><img style="margin: 10px" src="https://github.com/get-icon/geticon/raw/master/icons/jupyter.svg" alt="Jupyter" width="55px" height="55px"></a>
-<a href="" title=""><img style="margin: 10px" src="https://github.com/get-icon/geticon/raw/master/icons/flask.svg" alt="flask" width="55px" height="55px"></a>
-</div>
-
-
 # Contact
 <div align="center">  
 <a href="https://linkedin.com/in/wiktorbozek" target="_blank">
